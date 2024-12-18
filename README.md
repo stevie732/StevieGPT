@@ -1,7 +1,5 @@
 # StevieGPT - Your Coding AI Assistant
 
-# StevieGPT - Your Coding AI Assistant
-
 ![StevieGPT Logo](client/assets/bot.svg)
 
 ## Table of Contents
